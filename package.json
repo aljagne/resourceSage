@@ -1,0 +1,29 @@
+{
+  "name": "resourcesage",
+  "version": "1.0.0",
+  "description": "AI-Driven to Optimize Resources, Maximize Growth",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aljagne/resourceSage.git"
+  },
+  "keywords": [],
+  "author": "Alieu Jagne",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/aljagne/resourceSage/issues"
+  },
+  "homepage": "https://github.com/aljagne/resourceSage#readme",
+  "dependencies": {
+    "dotenv": "^16.4.7",
+    "langbase": "^1.1.15"
+  }
+}
