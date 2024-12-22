@@ -1,0 +1,42 @@
+{
+  "name": "resourcesage",
+  "version": "1.0.0",
+  "description": "AI-Driven to Optimize Resources, Maximize Growth",
+  "main": "index.js",
+  "directories": {
+    "doc": "docs",
+    "test": "test"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aljagne/resourceSage.git"
+  },
+  "keywords": [],
+  "author": "Alieu Jagne",
+  "license": "ISC",
+  "type": "module",
+  "bugs": {
+    "url": "https://github.com/aljagne/resourceSage/issues"
+  },
+  "homepage": "https://github.com/aljagne/resourceSage#readme",
+  "dependencies": {
+    "axios": "^1.7.9",
+    "cheerio": "^1.0.0",
+    "dotenv": "^16.4.7",
+    "langbase": "^1.1.15",
+    "tsconfig-paths": "^4.2.0"
+  },
+  "devDependencies": {
+    "@aws-sdk/client-ec2": "^3.716.0",
+    "@types/aws-sdk": "^0.0.42",
+    "@types/node": "^22.10.2",
+    "and": "^0.0.3",
+    "install": "^0.13.0",
+    "npm": "^11.0.0",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.7.2"
+  }
+}
